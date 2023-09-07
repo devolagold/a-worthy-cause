@@ -22,6 +22,7 @@
   border-color: currentColor;
   /* 2 */
   font-family: "Inter";
+  scroll-behavior: smooth;
 }
 
 ::before,
